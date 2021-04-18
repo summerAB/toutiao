@@ -4,7 +4,7 @@ import router from './router'
 import store from './store'
 //字体图标
 import "./assets/font/iconfont.css"
-// rem 适配
+// rem
 import "amfe-flexible"
 // 加载vant核心组件库
 import vant from "vant"
