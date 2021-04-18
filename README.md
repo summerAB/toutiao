@@ -1,19 +1,3 @@
-# toutiao
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## rem 适配(flexible)
+    1. cnpm install --save-dev amfe-flexible
+    2. main.js 导入 Import "amfe-flexible"
